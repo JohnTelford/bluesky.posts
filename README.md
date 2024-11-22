@@ -1,2 +1,2 @@
-tech-posts
-# tech-posts
+bluesky-posts
+# bluesky-posts
