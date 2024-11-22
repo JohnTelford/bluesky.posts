@@ -18,6 +18,8 @@ It illustrates the maturity, adoption, and social application of specific techno
 
 It serves as a valuable tool for understanding how emerging technologies evolve through various phases of public perception and market readiness.
 
+I am an technology information junkie. The hype-cycle helps me guess the state of a technology or company.
+
 ## Phases of the Hype Cycle
 
 The Hype Cycle consists of five distinct phases:  
