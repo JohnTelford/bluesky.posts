@@ -24,6 +24,7 @@ My guestimant is I have  interest in about 20% of the maerial I scan.
 
 I lose interest in postings containing these buzzword: 
 
+- Aiming 
 - Brings
 - Calls For
 - Can
