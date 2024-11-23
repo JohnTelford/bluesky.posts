@@ -10,8 +10,9 @@ hype-cycle
 
 ---
 
-The hype curve is a graphical representation developed by [Gartner Hype Cycle](https://www.gartner.com/en/research/methodologies/gartner-hype-cycle) in 1995 and enhanced by James Royal-Lawso [The hidden curves of the Gartner hype cycle](https://beantin.net/the-hidden-curves-of-the-gartner-hype-cycle/?utm_source=perplexity)
-. Something that the Gartner curve doesn’t show, is that the trough of disillusionment has two possible outcomes. An innovation can travel onwards up to the plateau of productivity, or it can falls into the innovation graveyard.
+The hype curve is a graphical representation developed by [Gartner Hype Cycle](https://www.gartner.com/en/research/methodologies/gartner-hype-cycle) in 1995 and enhanced by James Royal-Lawso [The hidden curves of the Gartner hype cycle](https://beantin.net/the-hidden-curves-of-the-gartner-hype-cycle/?utm_source=perplexity).
+
+Something that the Gartner curve doesn’t show, is that the trough of disillusionment has two possible outcomes. An innovation can travel onwards up to the plateau of productivity, or it can falls into the innovation graveyard.
 
 It illustrates the maturity, adoption, social application, and death of specific technologies over time.
 
