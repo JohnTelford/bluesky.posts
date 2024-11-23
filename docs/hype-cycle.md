@@ -8,19 +8,20 @@ hype-cycle
   <img src="../docs/TechGraphics/Hype%20Cycle%20Gravyard.png" alt="Example Image">
 </figure>
 
-- [Gartner Hype Cycle](https://www.gartner.com/en/research/methodologies/gartner-hype-cycle)
-  
-- Enhanced by [James Royal-Lawson](https://beantin.net/the-hidden-curves-of-the-gartner-hype-cycle/)
-
 ---
 
-The hype curve is a graphical representation developed by Gartner in 1995 and enhanced by [James Royal-Lawson](https://beantin.net/the-hidden-curves-of-the-gartner-hype-cycle/)
+The hype curve is a graphical representation developed by [Gartner Hype Cycle](https://www.gartner.com/en/research/methodologies/gartner-hype-cycle) in 1995 and enhanced by James Royal-Lawso [The hidden curves of the Gartner hype cycle](https://beantin.net/the-hidden-curves-of-the-gartner-hype-cycle/?utm_source=perplexity)
+. Something that the Gartner curve doesn’t show, is that the trough of disillusionment has two possible outcomes. An innovation can travel onwards up to the plateau of productivity, or it can falls into the innovation graveyard.
 
 It illustrates the maturity, adoption, social application, and death of specific technologies over time.
 
 It serves as a valuable tool for understanding how emerging technologies evolve through various phases of public perception and market readiness.
 
-I am a technology information junkie. I get my daily fixes by scanning technology news sites. I lose interest in postings containing these buzzword: 
+I am a technology information junkie. I get my daily fixes by scanning technology news sites. 
+
+My guestimant is I have  interest in about 20% of the maerial I scan.
+
+I lose interest in postings containing these buzzword: 
 
 - Brings
 - Calls For
@@ -56,7 +57,6 @@ I am a technology information junkie. I get my daily fixes by scanning technolog
 
 ## Overview 
 
-[The hidden curves of the Gartner hype cycle](https://beantin.net/the-hidden-curves-of-the-gartner-hype-cycle/?utm_source=perplexity)
 
 ### Phases of the Hype Cycle
 
@@ -70,7 +70,7 @@ The Hype Cycle consists of five distinct phases:
 
 - During this phase, media coverage and public interest peak. Many organizations begin to experiment with the technology, leading to inflated expectations about its potential benefits.
 
-- About 50% of innovations make it to Peak of Inflated Expectations
+- About 50% of innovations make it to Peak of Inflated Expectations. The others stalled or dye on the assent to the Peak of Inflated Expectations 
 
 ### Trough of Disillusionment:
 
@@ -90,4 +90,3 @@ The Hype Cycle consists of five distinct phases:
 
 - The remaining 30% are buired in the Innovation Graveyard
 
-- The remaining 30% making it to the Peak of Inflated Expectitions end up in the Innoation graveyard
