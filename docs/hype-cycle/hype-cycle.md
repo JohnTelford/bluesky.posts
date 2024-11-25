@@ -5,12 +5,12 @@ hype-cycle
 # Hype Cycle
 
 <figure>
-  <img src="../docs/TechGraphics/Hype%20Cycle%20Gravyard.png" alt="Example Image">
+  <img src="../../docs/TechGraphics/Hype%20Cycle%20Gravyard.png" alt="Example Image">
 </figure>
 
 ---
 
-The hype curve is a graphical representation developed by [Gartner Hype Cycle](https://www.gartner.com/en/research/methodologies/gartner-hype-cycle) in 1995 and enhanced by James Royal-Lawso [The hidden curves of the Gartner hype cycle](https://beantin.net/the-hidden-curves-of-the-gartner-hype-cycle/?utm_source=perplexity).
+The hype curve is a graphical representation developed by [Gartner Hype Cycle](https://www.gartner.com/en/research/methodologies/gartner-hype-cycle) in 1995, and enhanced by James Royal-Lawso [The hidden curves of the Gartner hype cycle](https://beantin.net/the-hidden-curves-of-the-gartner-hype-cycle/?utm_source=perplexity).
 
 Something that the Gartner curve doesn’t show, is that the trough of disillusionment has two possible outcomes. An innovation can travel onwards up to the plateau of productivity, or it can falls into the innovation graveyard.
 
@@ -57,18 +57,17 @@ I lose interest in postings containing these buzzword:
 - Up To
 - Will
 
-## Overview 
-
+## Overview
 
 ### Phases of the Hype Cycle
 
 The Hype Cycle consists of five distinct phases:  
 
-### Innovation Trigger: 
+### Innovation Trigger
 
 - This phase marks the emergence of a new technology Initial interest begins by early demonstrations or breakthroughs, but there are often no usable products yet available.
 
-### Peak of Inflated Expectations:  
+### Peak of Inflated Expectations
 
 - During this phase, media coverage and public interest peak. Many organizations begin to experiment with the technology, leading to inflated expectations about its potential benefits.
 
